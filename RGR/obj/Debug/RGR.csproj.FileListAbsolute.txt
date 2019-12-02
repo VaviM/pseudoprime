@@ -1,0 +1,6 @@
+E:\KhAI.CSN\Semester 3.5\Applied cryptology\РГР\RGR\bin\Debug\RGR.exe.config
+E:\KhAI.CSN\Semester 3.5\Applied cryptology\РГР\RGR\bin\Debug\RGR.exe
+E:\KhAI.CSN\Semester 3.5\Applied cryptology\РГР\RGR\bin\Debug\RGR.pdb
+E:\KhAI.CSN\Semester 3.5\Applied cryptology\РГР\RGR\obj\Debug\RGR.csprojAssemblyReference.cache
+E:\KhAI.CSN\Semester 3.5\Applied cryptology\РГР\RGR\obj\Debug\RGR.exe
+E:\KhAI.CSN\Semester 3.5\Applied cryptology\РГР\RGR\obj\Debug\RGR.pdb
